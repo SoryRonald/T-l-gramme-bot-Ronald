@@ -4,11 +4,11 @@
     ],
     "prefix": "-",
     "webhookURL": "your_webhookURL", 
-    "supportGroupText": "Welcome to the bot! Type `help to see all available commands.\nJoin the support box to know how to use or how to create these types of bots: https://t.me/+YNKDd9_jIeYxNDQ1",
+    "supportGroupText": "Welcome to the bot! ",
     "prefixText": "🌐 System prefix:",
-    "botName": "annie",
+    "botName": "Ronald bot",
     "adminUids": [
-     "6371757771"
+     "RonaldSory"
     ],
     "PORT": 3000,
     "note": "bot name is important but add a single name. add supportGroupText,add the webhookURL for spying : )"
